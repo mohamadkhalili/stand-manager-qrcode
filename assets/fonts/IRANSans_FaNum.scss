@@ -1,0 +1,14 @@
+@import 'IRANSans_FaNum.css';
+
+.v-application {
+  [class*= "text-"] {
+    font-family: IRANSans_FaNum !important;
+  }
+  font-family: IRANSans_FaNum !important;
+}
+.v-overlay-container * {
+  font-family: IRANSans_FaNum !important;
+}
+* {
+  font-family: IRANSans_FaNum !important;
+}

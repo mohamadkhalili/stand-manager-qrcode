@@ -1,0 +1,22 @@
+[
+    {
+        "name": "اتاق دود",
+        "icon": "mdi-smoking"
+    },
+    {
+        "name": "اتاق بازی",
+        "icon": "mdi-gamepad-variant"
+    },
+    {
+        "name": "پارکینگ",
+        "icon": "mdi-parking"
+    },
+    {
+        "name": "موسیقی زنده",
+        "icon": "mdi-music"
+    },
+    {
+        "name": "wifi",
+        "icon": "mdi-wifi"
+    }  
+]
